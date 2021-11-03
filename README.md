@@ -8,7 +8,7 @@
 - 💬 Ask me about Python
 - 📫 How to reach me: email: biologoborgescaetano@gmail.com | Linkedin: https://www.linkedin.com/in/jeison-caetano-3a47b2133/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: When I was child I thougth in applied for a job  at NASA mybe astronaut.
+- ⚡ Fun fact: When I was child I thougth in apply for a job at NASA maybe astronaut.
 
 <div>
   <a href="https://github.com/GamaCaetano">

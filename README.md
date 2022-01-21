@@ -1,8 +1,8 @@
- Hi there! My name is Jeison and I'm Biologist and IT student. First I'm interested in Technology and Science since my childhood because this I studied at seveteen electrical techinician. Then I was military for four years and I started my Biology degree but I always like computer, tech and innovation. Finally I turn for my interest field and I study Python and other technologies.  👋
+ Hi there! My name is Jeison and I'm Biologist and IT student. First I'm interested in Technology and Science since my childhood because this I studied at seveteen electrical techinician. Then I was military for four years and I started my Biology degree but I always like computer, tech and innovation. Finally I turn for my interest field and I study Python  👋
 
 
 - 👨🏽‍🔬 I’m currently working on Epidemiology for Governament
-- 👨🏽‍💻 I’m currently learning PYTHON and IT degree
+- 👨🏽‍💻 I’m currently learning Python
 - 👯 I’m looking to collaborate on Technology
 - 🤔 I’m looking for help with Computer Science
 - 💬 Ask me about Python
@@ -19,9 +19,9 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+ 
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+
   
 
 </div>

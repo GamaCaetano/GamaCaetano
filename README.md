@@ -1,4 +1,4 @@
- Hi there! My name is Jeison and I'm Biologist and IT student. First I'm interested in Technology and Science since my childhood because this I studied at seveteen electrical techinician. Then I was military for four years and I started my Biology degree but I always like computer, tech and innovation. Finally I turn for my interest field and I study Python  👋
+ Hi there! My name is Jeison and I'm Biologist and IT student. First I'm interested in Technology and Science since my childhood because this I studied at seveteen electrical techinician. Then I was military for four years and I started my Biology degree but I always like computer, tech and innovation. Finally I turn for my interest field and I study Python 👋
 
 
 - 👨🏽‍🔬 I’m currently working on Epidemiology for Government

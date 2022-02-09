@@ -2,9 +2,9 @@
 
 
 - 👨🏽‍🔬 I’m currently working on Epidemiology for Government
-- 👨🏽‍💻 I’m currently learning Python
+- 👨🏽‍💻 I’m currently learning Python and Data Science
 - 👯 I’m looking to collaborate on Technology
-- 🤔 I’m looking for help with Computer Science
+- 🤔 I’m looking for help with Computer Science and Data
 - 💬 Ask me about Python
 - 📫 How to reach me: email: biologoborgescaetano@gmail.com | Linkedin: https://www.linkedin.com/in/jeison-caetano-3a47b2133/
 - 😄 Pronouns: He/Him

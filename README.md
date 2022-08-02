@@ -1,11 +1,11 @@
- Hi there! My name is Jeison and I'm Biologist and IT student. First I'm interested in Technology and Science since my childhood because this I studied at seveteen electrical techinician. Then I was military for four years and I started my Biology degree but I always like computer, tech and innovation. Finally I turn for my interest field and I study Python 👋
+ Hi there! My name is Jeison and I'm Biologist and IT student. First I'm interested in Technology and Science since my childhood because this I studied at seveteen electrical techinician. Then I was military for four years and I started my Biology degree but I always liked computer, tech and innovation. Finally I turn for my interest field and I study Python and JAVA 👋
 
 
 - 👨🏽‍🔬 I’m currently working on Epidemiology for Government
 - 👨🏽‍💻 I’m currently learning Python and Data Science
 - 👯 I’m looking to collaborate on Technology
 - 🤔 I’m looking for help with Computer Science and Data
-- 💬 Ask me about Python
+- 💬 Ask me about Python and JAVA
 - 📫 How to reach me: email: biologoborgescaetano@gmail.com | Linkedin: https://www.linkedin.com/in/jeison-caetano-3a47b2133/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: When I was child I thougth about working at NASA maybe astronaut.

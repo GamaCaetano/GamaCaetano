@@ -2,7 +2,7 @@
 
 
 - 👨🏽‍🔬 I’m currently working on Epidemiology for Government
-- 👨🏽‍💻 I’m currently learning Python and Data Science
+- 👨🏽‍💻 I’m currently learning Python and Java
 - 👯 I’m looking to collaborate on Technology
 - 🤔 I’m looking for help with Computer Science and Data
 - 💬 Ask me about Python and JAVA

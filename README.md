@@ -5,7 +5,7 @@
 - 👨🏽‍💻 I’m currently learning Python, Java and R
 - 👯 I’m looking to collaborate on Technology
 - 🤔 I’m looking for help with Computer Science and Data
-- 💬 Ask me about Python and JAVA
+- 💬 Ask me about R, Python and JAVA
 - 📫 How to reach me: email: biologoborgescaetano@gmail.com | Linkedin: https://www.linkedin.com/in/jeison-caetano-3a47b2133/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: When I was child I thougth about working at NASA maybe astronaut.
